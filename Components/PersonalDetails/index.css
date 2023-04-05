@@ -1,0 +1,52 @@
+.AppContainer{
+    background-color: lightblue;
+    background-size: cover;
+    min-height: 140vh;
+}
+
+.text{
+    text-align: center;
+    font-family: "Segoe UI";
+}
+
+.details{
+    
+    background-color: aliceblue;
+    margin: 40px;
+    text-align: center;
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 15px;
+
+}
+.sub-details{
+    background-color: aliceblue;
+}
+
+.label{
+    font-weight: 600;
+    font-size: 15px;
+}
+
+input {
+    width: 20%;
+    padding: 6px 10px;
+    margin: 3px 0;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.selecter{
+    width: 10%;
+    padding: 6px 10px;
+    margin: 3px 0;
+    box-sizing: border-box;
+    margin: 10px; 
+}
+
+
+
